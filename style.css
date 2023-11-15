@@ -1,3 +1,23 @@
+
+.title { 
+    text-align: center;
+}
+
+/* The code below adds a white background-color and black text color for the body of the page. */
+body {
+    color:gold;
+    text-align: center ;
+    background-color: black;
+}
+
+
+/* The code below adds a black background-color and white text color for each section heading. */
+.sectionStyle {
+    color: purple;
+    text-align: center;
+    background-color: black;
+}
+
 /* The code below centers the text of all h1's on the page. */
 h1 {
     text-align:center;
@@ -27,3 +47,13 @@ h2 {
     border: 5px black solid;
     margin:5px;
 }
+
+.section-container1 {
+    display:flex;
+    justify-content:center;
+}
+
+.section1 {
+    text-align:center;
+}
+
